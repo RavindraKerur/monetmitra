@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-family",
+        "title": "Personal Loan",
+        "shortdesc": "A Personal Loan is a loan for your personal purpose, be it your child’s wedding, a dream vacation, a shopping extravaganza, buying a new furniture and various other needs that an individual can have.",
+        "link": "/personal-loan/",
+        "interest": "Interest Rates as low as10.25%",
+        "processingfee":"Processing Fee at justRs. 1999/-",
+        "collateral":"Collateral free loans",
+        "slider":[
+            {
+                "img":"assets/images/services.jpg",
+                "text":"Choosing right education loan"
+            },
+            {
+                "img":"assets/images/services1.jpg",
+                "text":"Choosing right education loan"
+            }
+        ],
+        "longdescription":"<p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What we do ?.</h4><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What the procedure ?.</h4><p class='text-light-white no-margin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p>"
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-kidnapping",
+        "title": "Home Loan",
+        "shortdesc": "Home Loan is a secured loan product where the Housing Loan providing banks provides loans for the purchase or construction of a residential/commercial property.",
+        "link": "/home-loan/",
+        "interest": "Interest Rates at 13%",
+        "processingfee":"Processing Fee at 1%",
+        "collateral":"Tenure ranging from 1 yr to 4 yrs",
+        "slider":[
+            {
+                "img":"assets/images/services.jpg",
+                "text":"Choosing right education loan"
+            },
+            {
+                "img":"assets/images/services1.jpg",
+                "text":"Choosing right education loan"
+            }
+        ],
+        "longdescription":"<p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What we do ?.</h4><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What the procedure ?.</h4><p class='text-light-white no-margin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p>"
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-hook",
+        "title": "Mortgage Loan",
+        "shortdesc": "Mortgage Loan, also known as Loan against property is a secured loan. This comes off as a better option during times of financial crisis. The property papers are kept as collateral with the financial institution providing loan.",
+        "link": "/mortgage-loan/",
+        "interest": "Interest Rates at the lowest 6.65%",
+        "processingfee":"Processing Fee of just Rs. 4999/-",
+        "collateral":"Fixed Tenure and Easy EMIs",
+        "slider":[
+            {
+                "img":"assets/images/services.jpg",
+                "text":"Choosing right education loan"
+            },
+            {
+                "img":"assets/images/services1.jpg",
+                "text":"Choosing right education loan"
+            }
+        ],
+        "longdescription":"<p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What we do ?.</h4><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What the procedure ?.</h4><p class='text-light-white no-margin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p>"
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-book",
+        "title": "Business Loan",
+        "shortdesc": "A Business Loan is a loan is meant to fund business requirements such as working capital, expanding operations, adding equipment, inventory, sponsoring events, projects, hiring staff, wages, etc.",
+        "link": "/business-loan/",
+        "interest": "Interest Rates – 10.25%",
+        "processingfee":"Processing Fee – Rs. 1999/-",
+        "collateral":"Higher quantum amount and longer tenure",
+        "slider":[
+            {
+                "img":"assets/images/services.jpg",
+                "text":"Choosing right education loan"
+            },
+            {
+                "img":"assets/images/services1.jpg",
+                "text":"Choosing right education loan"
+            }
+        ],
+        "longdescription":"<p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What we do ?.</h4><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What the procedure ?.</h4><p class='text-light-white no-margin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p>"
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-wounded",
+        "title": "Loan for Doctors",
+        "shortdesc": "Doctors Loan is specially designed for a medical practitioner’s unique professional and personal needs.",
+        "link": "/doctors-loan/",
+        "interest": "Interest Rates of 7.35%",
+        "processingfee":"Processing Fee of0.25%",
+        "collateral":"Loan applicable for both New Car and Used Car",
+        "slider":[
+            {
+                "img":"assets/images/services.jpg",
+                "text":"Choosing right education loan"
+            },
+            {
+                "img":"assets/images/services1.jpg",
+                "text":"Choosing right education loan"
+            }
+        ],
+        "longdescription":"<p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What we do ?.</h4><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What the procedure ?.</h4><p class='text-light-white no-margin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p>"
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-wounded",
+        "title": "Car Loan",
+        "shortdesc": "Whether it's a brand new car, or a pre-loved one, our Car Loans help you focus on buying the best vehicle for you, without having to worry about the cash flow. Fund your car purchase in a smart, quick and hassle-free way with our Car Loans.",
+        "link": "/car-loan/",
+        "interest": "Interest Rates of 7.35%",
+        "processingfee":"Processing Fee of0.25%",
+        "collateral":"Loan applicable for both New Car and Used Car",
+        "slider":[
+            {
+                "img":"assets/images/services.jpg",
+                "text":"Choosing right education loan"
+            },
+            {
+                "img":"assets/images/services1.jpg",
+                "text":"Choosing right education loan"
+            }
+        ],
+        "longdescription":"<p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What we do ?.</h4><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What the procedure ?.</h4><p class='text-light-white no-margin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p>"
+    },
+    {
+        "id": 7,
+        "icon": "flaticon-wounded",
+        "title": "Credit Cards",
+        "shortdesc": "When you need money immediately and are running short of it or do not have hard cash with you, a credit card comes for your rescue. Credit card is a plastic card issued by a bank, using which you can borrow money for your needs especially purchases.",
+        "link": "/credit-card",
+        "interest": "Interest Rates of 7.35%",
+        "processingfee":"Processing Fee of0.25%",
+        "collateral":"Loan applicable for both New Car and Used Car",
+        "slider":[
+            {
+                "img":"assets/images/services.jpg",
+                "text":"Choosing right education loan"
+            },
+            {
+                "img":"assets/images/services1.jpg",
+                "text":"Choosing right education loan"
+            }
+        ],
+        "longdescription":"<p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What we do ?.</h4><p class='text-light-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p><h4 class='text-custom-black fw-600'>What the procedure ?.</h4><p class='text-light-white no-margin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae quia nemo possimus soluta dignissimos provident ipsum tenetur non ratione incidunt, debitis commodi similique maxime unde fugiat ab? Odio, eaque.</p>"
+    }
+]

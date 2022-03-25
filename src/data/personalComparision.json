@@ -1,0 +1,1426 @@
+[
+    {
+        "id": 1,
+        "bankName": "HDFC Bank Personal Loan",
+        "rating": 4,
+        "totalRating": 4,
+        "totalusers": 20012,
+        "intrestRateRange": "10.75% - 21.50%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "Up to 2.50%",
+        "processingFeeTime": "One time free",
+        "loanAmount": "Up to Rs.40L",
+        "tenureRange": "1 - 5 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Conditional pre-closure after 1 year"
+                    },
+                    {
+                        "list": "This offer is available only if all necessary documents are uploaded online"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - PAN, address and ID proof"
+                    },
+                    {
+                        "list": "Income proof, bank statement and a photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = 4% of principal outstanding (plus applicable tax) in 2nd year. 3% (plus applicable tax) in 3rd year & 2.5% (plus applicable tax) afterwards"
+                    },
+                    {
+                        "list": "Part-payments can be made only after 12 months. For part payments between 13 to 24 months, a fee of 4% is applicable on the part-payment amount. 3% is applicable on payments between 25 to 36 months. 2% is applicable post 36 months"
+                    },
+                    {
+                        "list": "Part-payments are allowed only twice during the loan tenure and once a year. The amount cannot exceed 25% of the principal outstanding"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 4,014+"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Salaried - Age at least 21 and less than 60"
+                    },
+                    {
+                        "list": "Self-employed - Age at least 21 and less than 65"
+                    },
+                    {
+                        "list": "Applicant should be earning at least  20,000 per month as net income ( 25,000 for applicants from Madhya Pradesh)"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            {
+                "heading": "Customer Reviews",
+                "listData": [
+                    {
+                        "listTitle": "Hassle Free Experience",
+                        "listUser": "Debayan",
+                        "listContent": "I got the best rate with minimal processing fee of 1-2%. The documents were collected at my doorstep and loan was disbursed within 2-3 days post verification. It was an easy & smooth process."
+                    },
+                    {
+                        "listTitle": "Brilliant Experience!",
+                        "listUser": "Mohamed",
+                        "listContent": "The online experience was much smoother than offline. The documents were picked up from my doorstep. The interest rate charged was as promised by them."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "bankName": "IndusInd Bank Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "11.00% - 16.75%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "Up to 3.50%",
+        "processingFeeTime": "One time free",
+        "loanAmount": "Up to Rs.5L",
+        "tenureRange": "Up to 5 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Pre-qualified offer - NO income documents required"
+                    },
+                    {
+                        "list": "Easily complete KYC online via video call with bank representative"
+                    },
+                    {
+                        "list": "Quick approval, flexible tenure"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "Has pre-closure option"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - PAN, address & ID proof"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    },
+                    {
+                        "list": "Top-up loan available"
+                    },
+                    {
+                        "list": "Balance transfer"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "No part-payment option"
+                    },
+                    {
+                        "list": "Pre-closure allowed only after repayment of 12 EMIs"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = 4% of principal outstanding (plus applicable tax)"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 754+"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age at least 23 years and less than 58 years for salaried"
+                    },
+                    {
+                        "list": "Age at least 28 years and less than 68 years for self-employed"
+                    },
+                    {
+                        "list": "For salaried, 2 years minimum overall work experience with 1 year minimum experience in current company"
+                    },
+                    {
+                        "list": "For self-employed, at least 5 years of experience after relevant qualification"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            {
+                "heading": "Customer Reviews",
+                "listData": [
+                    {
+                        "listTitle": "No Processing Fees",
+                        "listUser": "Santhosh",
+                        "listContent": "A competitive interest rate with zero processing fees. Quick loan disbursal!"
+                    },
+                    {
+                        "listTitle": "Quick, Efficient Service",
+                        "listUser": "Chetan",
+                        "listContent": "Very fast loan processing time coupled with top-notch customer service."
+                    },
+                    {
+                        "listTitle": "Truly A Customer-Oriented Bank",
+                        "listUser": "Aylwin",
+                        "listContent": "Customer service beyond compare. From doorstep facility to convenient payment options to low interest rates, they have kept their customer needs at the forefront."
+                    },
+                    {
+                        "listTitle": "Convenient Process",
+                        "listUser": "Amit",
+                        "listContent": "Good service and convenient repayment dates"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "bankName": "MyShubhLife",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "25.00% - 32.00%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "3.00%",
+        "processingFeeTime": "One time free",
+        "loanAmount": "Rs.75K - Rs.5L",
+        "tenureRange": "1 - 4 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Instant loan from Rs. 75,000 to Rs. 5 lakhs"
+                    },
+                    {
+                        "list": "No hidden fees or charges"
+                    },
+                    {
+                        "list": "Quick approval and disbursal"
+                    },
+                    {
+                        "list": "Conditional pre-closure after 12 months. Pre-closure charges applicable"
+                    },
+                    {
+                        "list": "Affordable EMI plans"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - PAN, current address and ID proof"
+                    },
+                    {
+                        "list": "Bank statement"
+                    },
+                    {
+                        "list": "Selfie"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "No part-payment facility"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = 3% - 5% on principal outstanding"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - NA"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Minimum age - 21 years; Maximum age - 60 years"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 4,
+        "bankName": "Tata Capital Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "11.25% - 14.49%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "Up to 2.75%",
+        "processingFeeTime": "One time free",
+        "loanAmount": "Up to Rs.20L",
+        "tenureRange": "1 - 6 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Conditional pre-closure and part payment after 12 months"
+                    },
+                    {
+                        "list": "Maximum loan term of 6 years"
+                    },
+                    {
+                        "list": "25% part payment allowed in a year"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - PAN, address and ID proof"
+                    },
+                    {
+                        "list": "Income proof, bank statement and a photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "Part-payment available"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    },
+                    {
+                        "list": "Top-up loan available"
+                    },
+                    {
+                        "list": "Balance transfer"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Part-prepayments can be made only after 6 months. They are allowed only once a year with a minimum gap of 6 months between two part-prepayments. Amount prepaid cannot exceed 25% of the principal outstanding and a charge of 2.5% (plus applicable taxes) will be applied amounts above 25% of the principal outstanding"
+                    },
+                    {
+                        "list": "Foreclosure is allowed only after 6 months. A foreclosure charge of 3.5% + GST is applicable on the principal outstanding after 6 months. In case of foreclosure within 6 months after a part-prepayment, a foreclosure charge of 3.5% (plus applicable taxes) will be levied on the principal outstanding plus part-prepayment amount"
+                    },
+                    {
+                        "list": "For loans above Rs. 7 lakhs, a 12-month clean payment track is a must for loan foreclosure and a charge of 3.5% + GST applies unless loan is closed with own funds"
+                    },
+                    {
+                        "list": "For overdraft cases, loan foreclosure is allowed only after 6 months and a charge of 4.5% + GST is applicable on the dropped-down limit amount"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 100+"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Salaried - Age at least 24 and less than 55"
+                    },
+                    {
+                        "list": "Self-employed - Age at least 25 and less than 65"
+                    },
+                    {
+                        "list": "Applicants should be currently employed, with at least 1 year with their current employer"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            {
+                "heading": "Customer Reviews",
+                "listData": [
+                    {
+                        "listTitle": "Smooth Process",
+                        "listUser": "Guru",
+                        "listContent": "Tata Capital's Personal Loan process was fast - completed within 3 days. Their customer service executives responded quickly."
+                    },
+                    {
+                        "listTitle": "Quick Response",
+                        "listUser": "Nagavenkata Ramakrishnan",
+                        "listContent": "I appreciate the immediate assistance provided. Everything was in place."
+                    },
+                    {
+                        "listTitle": "Attractive Services",
+                        "listUser": "Rajnigandha",
+                        "listContent": "Loved the services offered by Tata Capital! They provided preclosure and part payment options, no processing fees, and the entire process was completed within 3 days."
+                    },
+                    {
+                        "listTitle": "Reasonable Rates And Fees",
+                        "listUser": "Prudhvi",
+                        "listContent": "Tata Capital's response was immediate. Also,they charged very nominal interest rates and processing fees for the loan."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "bankName": "PaySense",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "18.00% - 36.00%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "2.00% - 3.00%",
+        "processingFeeTime": "One time free",
+        "loanAmount": "Rs.1L - Rs.5L",
+        "tenureRange": "Up to 5 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Instant short-term loan from Rs. 1 lakh to Rs. 5 lakhs"
+                    },
+                    {
+                        "list": "No income documents required"
+                    },
+                    {
+                        "list": "Quick approval and disbursal"
+                    },
+                    {
+                        "list": "No hidden fees or charges"
+                    },
+                    {
+                        "list": "Affordable EMI plans"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - PAN, current address and ID proof"
+                    },
+                    {
+                        "list": "Photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = 4% on principal outstanding. Allowed only after first 3 EMIs"
+                    },
+                    {
+                        "list": "Late payment fee = Rs. 500 + GST"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 99+"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 6,
+        "bankName": "Fullerton Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "11.99% - 25.00%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "3.00% - 6.00%",
+        "processingFeeTime": "One time free",
+        "loanAmount": "Up to Rs.25L",
+        "tenureRange": "1 - 5 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "No hidden charges"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "Conditional pre-closure after 6 months"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "Photo ID proof"
+                    },
+                    {
+                        "list": "Current address proof"
+                    },
+                    {
+                        "list": "Last 3 months bank statement"
+                    },
+                    {
+                        "list": "Last 3 months salary slips"
+                    },
+                    {
+                        "list": "Passport-size photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    },
+                    {
+                        "list": "Balance transfer"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "No part-payment facility"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = 3% - 7% of principal outstanding (plus applicable tax)"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age limit - 21 years to 65 years"
+                    },
+                    {
+                        "list": "Salaried individuals with minimum net monthly income of Rs. 15,000 and above"
+                    },
+                    {
+                        "list": "For salaried individuals residing in metro cities, a minimum net monthly income of  Rs. 20,000 and above is required"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 7,
+        "bankName": "HOME CREDIT",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "13.00% - 30.00%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "0",
+        "processingFeeTime": "Zero Processing Fee",
+        "loanAmount": "Rs.50K - Rs.2L",
+        "tenureRange": "Up to 4 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Loan up to Rs. 2 lakhs with instant online approval"
+                    },
+                    {
+                        "list": "No processing fee or pre-payment charges"
+                    },
+                    {
+                        "list": "Disbursal within a day"
+                    },
+                    {
+                        "list": "No guarantor/collaterals required"
+                    },
+                    {
+                        "list": "Conditional pre-closure allowed after 6 months"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - PAN, current address and ID proof"
+                    },
+                    {
+                        "list": "Bank statement of salary account via netbanking (mandatory)"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "No part-payment option"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = Rs. 0. Allowed only after 6 months"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 99+"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age limit - 19 years to 58 years"
+                    },
+                    {
+                        "list": "Salaried individuals with minimum net monthly income of  15,000 and above"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 8,
+        "bankName": "Kotak Mahindra Bank Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "10.50% - 16.99%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "Up to 2.50%",
+        "processingFeeTime": "One time fee",
+        "loanAmount": "Rs.50K - Rs.25L",
+        "tenureRange": "1 - 5 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Conditional pre-closure after 1 year"
+                    },
+                    {
+                        "list": "This offer is available only if all necessary documents are uploaded online"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - PAN, address and ID proof"
+                    },
+                    {
+                        "list": "Income proof, bank statement and a photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    },
+                    {
+                        "list": "Top-up loan available"
+                    },
+                    {
+                        "list": "Balance transfer"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "No part-payment facility"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = 5% of principal outstanding (plus applicable tax)"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 641+"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age - At least 21 and less than 55"
+                    },
+                    {
+                        "list": "Applicants must be salaried Indian residents working at MNCs, public companies or other large private organisations"
+                    },
+                    {
+                        "list": "Monthly income should be more than Rs. 25,000"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            {
+                "heading": "Customer Reviews",
+                "listData": [
+                    {
+                        "listTitle": "Prompt And Helpful ",
+                        "listUser": "A V Ravi",
+                        "listContent": "I am satisfied with Kotak's prompt response, hassle-free documentation and great customer support."
+                    },
+                    {
+                        "listTitle": "Truly Amazing!",
+                        "listUser": "Manish",
+                        "listContent": "With the manager taking a personal interest, my loan was disbursed within 8-10 days and previous loan's NOC handled expertly. Overall, truly an amazing experience."
+                    },
+                    {
+                        "listTitle": "All credit to Kotak!",
+                        "listUser": "Pawal",
+                        "listContent": "What can be better than a convenient interest rate, continuous assistance and on-time approval? I got exactly what I asked for!"
+                    }
+                ]
+            }   
+        ]
+    },
+    {
+        "id": 9,
+        "bankName": "Citibank Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "10.50% - 17.99%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "0.50% - 3.00%",
+        "processingFeeTime": "One time fee",
+        "loanAmount": "Up to Rs.30L",
+        "tenureRange": "1 - 5 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Rate of interest starts from just 10.50%"
+                    },
+                    {
+                        "list": "This offer is available only if all necessary documents are uploaded online"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "For Salaried: KYC - PAN, address and ID proof"
+                    },
+                    {
+                        "list": "Income proof, bank statement and a photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    },
+                    {
+                        "list": "Top-up loan available"
+                    },
+                    {
+                        "list": "Balance transfer"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "Conditional pre-closure & part-payment available only after 12 months"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = Up to 3% on total principal outstanding"
+                    },
+                    {
+                        "list": "Part-payment fee = 0"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 35+"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            {
+                "heading": "Customer Reviews",
+                "listData": [
+                    {
+                        "listTitle": "Simple and clear",
+                        "listUser": "Geetha Ramachandran",
+                        "listContent": "I had a really good experience. Information given was simple and clear."
+                    },
+                    {
+                        "listTitle": "A Seamless Affair ",
+                        "listUser": "Logesh",
+                        "listContent": "My experience with Citibank in a word - 'awesome'. The process was simple and quick, thanks to the reliable customer service and minimal documentation."
+                    },
+                    {
+                        "listTitle": "True Commitment",
+                        "listUser": "Epsita Naik",
+                        "listContent": "Citibank was committed and honest in their dealing. Their online banking service made it easy to track my loan status."
+                    }
+                ]
+            }   
+        ]
+    },
+    {
+        "id": 10,
+        "bankName": "Ujjivan Small Finance Bank",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "16.50% - 20.00%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "Up to 2.00%(Min Rs.2,000)",
+        "processingFeeTime": "One time fee",
+        "loanAmount": "Up to Rs.15L",
+        "tenureRange": "1 - 5 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "New-to-credit customers are eligible"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC-PAN, address & ID proof"
+                    },
+                    {
+                        "list": "Income proof, bank statement and one photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "Preclosure charges"
+                    },
+                    {
+                        "list": "No part payments"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Preclosure fee = Within 1 year - 2%; After 1 year - 1%"
+                    },
+                    {
+                        "list": "Part-payment fee = No part payments"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 464+"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age - 22 to 58 years old"
+                    },
+                    {
+                        "list": "The person must have a monthly income of Rs. 20,000 and above"
+                    },
+                    {
+                        "list": "For salaried, minimum 2 years overall experience is required."
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 11,
+        "bankName": "InCred Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "18%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "2.00% - 5.00%",
+        "processingFeeTime": "One time fee",
+        "loanAmount": "Rs.50K - Rs.7.5L",
+        "tenureRange": "1 - 4 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Customers with no credit history are eligible"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "Prepayment is allowed after 6 months"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC - ID proof and current address proof"
+                    },
+                    {
+                        "list": "Bank statement"
+                    },
+                    {
+                        "list": "Selfie"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "No guarantor required"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "Pre-closure charges"
+                    },
+                    {
+                        "list": "Part-payment charges"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = Up to 5% of the total principal outstanding"
+                    },
+                    {
+                        "list": "Part-payment fee = Up to 5% of the part-payment amount"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - NA"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Salaried - Age at least 21 and less than 56 years"
+                    },
+                    {
+                        "list": "Minimum monthly income of Rs. 15,000"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 12,
+        "bankName": "Edelweiss Salaried Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "17.00% - 26.00%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "2%",
+        "processingFeeTime": "One time fee",
+        "loanAmount": "Rs.2L - Rs.20L",
+        "tenureRange": "0.5 - 4 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "No hidden charges"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "Faster repayments & bigger savings"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "Photo ID proof"
+                    },
+                    {
+                        "list": "Current address proof"
+                    },
+                    {
+                        "list": "Last 6 months bank statement"
+                    },
+                    {
+                        "list": "Passport-size photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "Part-payment available"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    },
+                    {
+                        "list": "Top-up loan available"
+                    },
+                    {
+                        "list": "Balance transfer"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "4% pre-closure charges on amount prepaid"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - NA"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age - At least 21 and less than 56"
+                    },
+                    {
+                        "list": "Minimum 3 years of total work experience or minimum 1 year with current company"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 13,
+        "bankName": "Standard Chartered Bank",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "14%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "Min Rs.1,000",
+        "processingFeeTime": "One time fee",
+        "loanAmount": "Rs.1L - Rs.6L",
+        "tenureRange": "1 - 3 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Pre-qualified offer: No income documents required"
+                    },
+                    {
+                        "list": "Pre-closure and part-payment available"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC-PAN, address & ID proof"
+                    },
+                    {
+                        "list": "Photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Part-payment available"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Pre-closure fee = 5% within 1 year of tenure, 4% within 2 years, 2% within 3 years, and 1% after 3 years"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age at least 21 and less than 62"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    },
+    {
+        "id": 14,
+        "bankName": "Yes Bank Personal Loan",
+        "rating": "",
+        "totalRating": "",
+        "totalusers": "",
+        "intrestRateRange": "20.00% - 22.00%",
+        "intrestRateRangeFixed": "Fixed",
+        "processingFee": "2.5%",
+        "processingFeeTime": "One time fee",
+        "loanAmount": "Rs.50K - Rs.2L",
+        "tenureRange": "1 - 3 Years",
+        "features": [
+            {
+                "heading": "What you'll love",
+                "listData": [
+                    {
+                        "list": "Has pre-closure option"
+                    }
+                ]
+            },
+            {
+                "heading": "Documents",
+                "listData": [
+                    {
+                        "list": "KYC-PAN, address & ID proof"
+                    },
+                    {
+                        "list": "Income proof, bank statement and a photograph"
+                    }
+                ]
+            },
+            {
+                "heading": "Perks",
+                "listData": [
+                    {
+                        "list": "Door step service"
+                    },
+                    {
+                        "list": "Part-payment available"
+                    },
+                    {
+                        "list": "No guarantor required"
+                    },
+                    {
+                        "list": "E-approval"
+                    },
+                    {
+                        "list": "Top-up loan available"
+                    },
+                    {
+                        "list": "Balance transfer"
+                    }
+                ]
+            },
+            {
+                "heading": "Think about",
+                "listData": [
+                    {
+                        "list": "Part-payment charges"
+                    }
+                ]
+            },
+            {
+                "heading": "Fees & Charges",
+                "listData": [
+                    {
+                        "list": "Preclosure fee = 13-24 months of EMI repayment - 4% of principal outstanding."
+                    },
+                    {
+                        "list": "Preclosure fee = 25-36 months - 3% of principal outstanding."
+                    },
+                    {
+                        "list": "Preclosure fee = 37-48 months - 2%. No fee applicable above 48 months of EMI repayment"
+                    },
+                    {
+                        "list": "Part-payment fee = 2% plus applicable taxes on the part-payment amount"
+                    }
+                ]
+            },
+            {
+                "heading": "Good to Know",
+                "listData": [
+                    {
+                        "list": "Branches - 100+"
+                    }
+                ]
+            },
+            {
+                "heading": "Eligibility Criteria",
+                "listData": [
+                    {
+                        "list": "Age limit for salaried - 25 years to 53 years"
+                    }
+                ]
+            }
+        ],
+        "reviewsData": [
+            
+        ]
+    }
+]

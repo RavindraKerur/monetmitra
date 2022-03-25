@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "link": "/"
+    },
+    {
+        "id": 2,
+        "linkText": "About Us",
+        "child": true,
+        "submenu": [
+            {
+                "id": 42,
+                "link": "/about",
+                "linkText": "About Us"
+            },
+            {
+                "id": 43,
+                "link": "/team",
+                "linkText": "Leadership Team"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "linkText": "Loans",
+        "child": true,
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/personal-loan/1",
+                "linkText": "Personal Loans"
+            },
+            {
+                "id": 33,
+                "link": "/home-loan/2",
+                "linkText": "Home Loans"
+            },
+            {
+                "id": 38,
+                "link": "/car-loan/6",
+                "linkText": "Car Loans"
+            },
+            {
+                "id": 34,
+                "link": "/mortgage-loan/3",
+                "linkText": "Mortgage Loans"
+            },
+            {
+                "id": 36,
+                "link": "/business-loan/4",
+                "linkText": "Business Loans"
+            },
+            {
+                "id": 37,
+                "link": "/doctors-loan/5",
+                "linkText": "Loans for Doctors"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "linkText": "Credit Cards",
+        "link": "/credit-card"
+    },
+    {
+        "id": 9,
+        "linkText": "Blogs",
+        "link": "/blog"
+    },
+    {
+        "id": 10,
+        "linkText": "Contact Us",
+        "link": "/contact"
+    }
+]

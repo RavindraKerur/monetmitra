@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "photo": "assets/images/doctors/doctor6.jpg",
+        "title": "Thankful to you for your favour",
+        "comment": "I am very thankful to you for your favour that you showed by accepting my application for a loan and your bank has approved my loan. I was in great need of money. I must appreciate that your bank has a speedy procedure for loan approval and every step is taken on merit. I also wish to thank Moneymithra for their support and services in helping me identify the right bank and process. Please accept my regards and thanks for your favor once again. I shall always remember your kindness.",
+        "name": "Ambika Nazareth",
+        "designation": "Marketing Manager"
+    },
+    {
+        "id": 2,
+        "photo": "assets/images/doctors/doctor2.jpg",
+        "title": "Keep up the good work",
+        "comment": "I am Mr. Dinakar from Bangalore I am very much thankful for your timely support to get my Personal loan of 10-Lac which was very much needed on that time and I was really don’t have an Idea that it can be done with in a 3-days I was suppose to ask my friend for loan but mean time I have got a call from Mr. Raju from your Money Mithra & supported me to get my Personal loan on time... Keep up the good work.",
+        "name": "Dinakar K",
+        "designation": "Team Manager – IBM"
+    },
+    {
+        "id": 3,
+        "photo": "assets/images/doctors/doctor2.jpg",
+        "title": "Really happy",
+        "comment": "I am really happy to say thank you for your on time support to get my Personal loan of 15-Lac I was keep on asking my friends to help me with some reference to take a personal loan at that time Mr. Pradeep had called me and I have give him all the required documents and he help to get my loan approved & I have received the loan amount with in 4- days ... I am really happy to get good service from Mr. Pradeep from Money Mithra 'Thanks a lot for your timely support Keep up the good work always'",
+        "name": "Lavanya Joshi",
+        "designation": "Manager – Ernst &Young  LLP (E&Y)"
+    },
+    {
+        "id": 4,
+        "photo": "assets/images/doctors/doctor2.jpg",
+        "title": "Good service",
+        "comment": "I am Mr. Kailash Chavan I am really happy to say Mr. Jagadeesh from Money Mithra has give me a good service to get my personal loan of 7-Lac ... I had a critical time I didn’t had a money for my Marriage so he helped me to get the personal loan with in 4-days it give me a confidence to give reference to Mr. Jagadeesh to help my friends on the same.",
+        "name": "Kailash Chavan",
+        "designation": "Team support – TCS"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "icon": "fas fa-headset",
+        "title":"Prospect customer approach",
+        "text":"Customer contact with Moneymithra, through various sources, toll-free number, enquiry on website, connect through social media, through a reference etc."
+    },
+    {
+        "id":2,
+        "icon": "fas fa-user-check",
+        "title":"Counselling by Sales Manager",
+        "text":"Upon establishing connect, a SM is assigned to the customer to understand his requirements to assess the customer’s requirement of the financial product."
+    },
+    {
+        "id":3,
+        "icon": "fas fa-boxes",
+        "title":"Offering of best suited offers and product",
+        "text":"SMs provide you with solution to your financial issue considering the offers from various banks, helps you with the comparison to get you the best deal, in terms of the maximum benefit and least cost."
+    },
+    {
+        "id":4,
+        "icon": "fas fa-file-signature",
+        "title":"Application and documents submission",
+        "text":"SMs will guide you and prepares the Application for you, Collects necessary documents, verifies application and documents for completeness and submits the same to the bank."
+    },
+    {
+        "id":5,
+        "icon": "fas fa-file-invoice",
+        "title":"Bank Process assistance",
+        "text":"SMs track your application and are constantly in touch with financial institution to ensure the process is expedited without any glitches until the application is processed and approved."
+    },
+    {
+        "id":6,
+        "icon": "fas fa-hand-holding-usd",
+        "title":"Amount disbursal to account",
+        "text":"After the Approval process, our SM facilitates the last leg of the process until completions, processes the agreements, & ensures your desired product is delivered to you (loan amount disbursal/credit card/insurance etc)"
+    }
+]

@@ -1,0 +1,122 @@
+[
+        {
+            "id": 1,
+            "branchName": "Bagalkot"
+        },
+        {
+            "id": 2,
+            "branchName": "Bellary"
+        },
+        {
+            "id": 3,
+            "branchName": "Belgaum"
+        },
+        {
+            "id": 4,
+            "branchName": "Bangalore Rural"
+        },
+        {
+            "id": 5,
+            "branchName": "Bangalore Urban"
+        },
+        {
+            "id": 6,
+            "branchName": "Bidar"
+        },
+        {
+            "id": 7,
+            "branchName": "Chamarajanagar"
+        },
+        {
+            "id": 8,
+            "branchName": "Chikballapur"
+        },
+        {
+            "id": 9,
+            "branchName": "Chikmagalur"
+        },
+        {
+            "id": 10,
+            "branchName": "Chitradurga"
+        },
+        {
+            "id": 11,
+            "branchName": "Dakshina Kannada"
+        },
+        {
+            "id": 12,
+            "branchName": "Davangere"
+        },
+        {
+            "id": 13,
+            "branchName": "Dharwad"
+        },
+        {
+            "id": 14,
+            "branchName": "Gadag"
+        },
+        {
+            "id": 15,
+            "branchName": "Hassan"
+        },
+        {
+            "id": 16,
+            "branchName": "Haveri"
+        },
+        {
+            "id": 17,
+            "branchName": "Gulbarga"
+        },
+        {
+            "id": 18,
+            "branchName": "Kodagu"
+        },
+        {
+            "id": 19,
+            "branchName": "Kolar"
+        },
+        {
+            "id": 20,
+            "branchName": "Koppal"
+        },
+        {
+            "id": 21,
+            "branchName": "Mandya"
+        },
+        {
+            "id": 22,
+            "branchName": "Mysore"
+        },
+        {
+            "id": 23,
+            "branchName": "Raichur"
+        },
+        {
+            "id": 24,
+            "branchName": "Ramanagara"
+        },
+        {
+            "id": 25,
+            "branchName": "Shimoga"
+        },
+        {
+            "id": 26,
+            "branchName": "Tumkur"
+        },
+        {
+            "id": 27,
+            "branchName": "Udupi"
+        },
+        {
+            "id": 28,
+            "branchName": "Karwar"
+        },
+        {
+            "id": 29,
+            "branchName": "Bijapur"
+        },
+        {
+            "id": 30,
+            "branchName": "Yadgir"
+        }
+    ]
